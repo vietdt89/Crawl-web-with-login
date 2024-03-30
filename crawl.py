@@ -6,8 +6,8 @@ values = {'name': 'vietdt89',
 
 login_url = "https://www.manager-tools.com/user"
 
-login = 'vietdt89'
-password = 'hr4ei9ei'
+login = ''
+password = ''
 
 cookies = {
     '_ga': 'GA1.2.405544073.1678090874',
