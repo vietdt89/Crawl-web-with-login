@@ -1,8 +1,8 @@
 import requests
 from bs4 import BeautifulSoup
 
-values = {'name': 'vietdt89',
-          'pass': 'hr4e9ei'}
+values = {'name': '',
+          'pass': ''}
 
 login_url = "https://www.manager-tools.com/user"
 
