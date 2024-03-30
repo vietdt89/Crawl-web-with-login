@@ -46,8 +46,8 @@ params = {
 }
 
 data = {
-    'name': 'vietdt89',
-    'pass': 'hr4ei9ei',
+    'name': '',
+    'pass': '',
     'form_build_id': 'form-jNFUj_bXKwJ4nCo3-AC_FE5u2OU6VZM1XYgu_EgKzPw',
     'form_id': 'user_login',
     'op': 'Log in',
